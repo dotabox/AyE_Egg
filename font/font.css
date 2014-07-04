@@ -1,0 +1,25 @@
+@font-face {
+    font-family:"UTM Avo";
+    font-style: normal;
+  	font-weight: normal; /* or 400 */
+    src:local('UTM Avo'), url(UTMAvo.woff) format("woff");
+  }
+@font-face {
+    font-family:"UTM Avo";
+    font-style: italic;
+  	font-weight: normal; /* or 400 */
+    src:local('UTM Avo Italic'), url(UTMAvoItalic.woff) format("woff");
+  }
+@font-face {
+    font-family:"UTM Avo";
+    font-style: normal;
+  	font-weight: bold; /* or 400 */
+    src:local('UTM Avo Bold'), url(UTMAvoBold.woff) format("woff");
+  }
+@font-face {
+    font-family:"UTM Avo";
+    font-style: italic;
+  	font-weight: bold; /* or 400 */
+    src:local('UTM Avo Bold Italic'), url(UTMAvoBold_Italic.woff) format("woff");
+  }
+
